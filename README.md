@@ -22,6 +22,9 @@ Features
 
 Changelog
 =====================================
+v1.6
+* [Fixed] Bug where players couldn't get out of helicopters after dying in them
+* [NEW] It takes longer to die since the script disregards hits in arms and legs
 
 v1.5
 * [NEW] Unconscious units will not be able to use ACRE radio, hear other people or use proximity chat
