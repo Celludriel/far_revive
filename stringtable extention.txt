@@ -1,0 +1,80 @@
+		<Container name="FAR Revive">
+            <Key ID="STR_FAR_Need_Medic1">
+                <Original>I need a medic!</Original>
+                <French>J'ai besoin d'un medic!</French>
+                <German>Ich brauche einen Sanitäter!</German>
+				<Spanish>¡Necesito un médico!</Spanish>
+            </Key>
+            <Key ID="STR_FAR_Need_Medic2">
+                <Original>I'm hit! Medic!</Original>
+            	<French>Je suis touché! Medic!</French>
+                <German>Wurde getroffen! Sanitäter!</German>
+				<Spanish>Herido! Médico!</Spanish>
+            </Key>
+            <Key ID="STR_FAR_Need_Medic3">
+                <Original>I'm down! Medic!</Original>
+                <French>Je suis à terre! Medic!</French>
+                <German>Ich bin gefallen! Sanitäter!</German>
+				<Spanish>Estoy abatido! Médico!</Spanish>
+            </Key>
+            <Key ID="STR_REVIVE_LABEL">
+            	<Original>YOU ARE WOUNDED</Original>
+                <French>VOUS ETES BLESSE</French>
+            	<German>DU BIST VERWUNDET</German>
+				<Spanish>ESTAS HERIDO</Spanish>
+            </Key>
+            <Key ID="STR_BLEEDOUT_MESSAGE">
+                <Original>Bleedout in %1 seconds</Original>
+                <French>Mort dans %1 secondes</French>
+                <German>Ausbluten in %1 Sekunden</German>
+				<Spanish>Desangrado en %1 segundos</Spanish>
+            </Key>
+            <Key ID="STR_BLEEDOUT_STABILIZED">
+                <Original>Stabilized</Original>
+                <French>Stabilisé</French>
+                <German>Stabilisiert</German>
+                <Spanish>Estabilizado</Spanish>
+            </Key>
+            <Key ID="STR_PARAMS_FAR_REVIVE_OPTIONS">
+                <Original>FAR Revive options</Original>
+                <French>Options de FAR Revive</French>
+                <German>FAR Revive Optionen</German>
+                <Spanish>Opciones FAR Revive</Spanish>
+            </Key>
+            <Key ID="STR_PARAMS_BLEED_OUT_TIMER">
+                <Original>Bleedout timer</Original>
+                <French>Minuterie ressuage</French>
+                <German>Ausbluten Timer</German>
+                <Spanish>Temporizador del desangrado</Spanish>
+            </Key>
+            <Key ID="STR_PARAMS_ENABLE_DEATH_MESSAGES">
+                <Original>Enable death messages</Original>
+                <French>Activer les messages de mort</French>
+                <German>Aktivieren Tod Nachrichten</German>
+                <Spanish>Activar los mensajes de muerte</Spanish>
+            </Key>
+            <Key ID="STR_PARAMS_REVIVE_MODE">
+                <Original>Revive mode</Original>
+                <French>Mode revive</French>
+                <German>Revive modus</German>
+                <Spanish>El modo de revivir</Spanish>
+            </Key>
+            <Key ID="STR_OPTION_ONLY_MEDICS">
+                <Original>Only medics</Original>
+                <French>Seuls les médecins</French>
+                <German>Nur medizinern</German>
+                <Spanish>Solamente los médicos</Spanish>
+            </Key>
+            <Key ID="STR_OPTION_ALL">
+                <Original>Everyone</Original>
+                <French>Tout le monde</French>
+                <German>Jeder</German>
+                <Spanish>Todo el mundo</Spanish>
+            </Key>
+            <Key ID="STR_OPTION_ALL_WITH_MEDIKIT">
+                <Original>Everyone with medical kit</Original>
+                <French>Tout le monde avec le kit médical</French>
+                <German>Jeder mit Medizin-Kit</German>
+				<Spanish>Todo el mundo con el kit médico</Spanish>
+            </Key>
+		</Container>
